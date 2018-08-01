@@ -12,6 +12,7 @@ check_required_var MARIADB_ROOT_PASS $MARIADB_ROOT_PASS
 echo MARIADB_ROOT_PASS=xxxxx
 check_required_var IROHABOARD_DB_PASS $IROHABOARD_DB_PASS
 echo IROHABOARD_DB_PASS=xxxxx
+echo MARIADB_HOSTNAME=$MARIADB_HOSTNAME
 
 echo ====================
 
